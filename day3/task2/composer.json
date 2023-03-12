@@ -1,0 +1,15 @@
+{
+  "name": "iti/lab3",
+  "description": "lecture lab3",
+  "license": "MIT",
+  "require": {},
+  "autoload": {
+    "files": [
+      "config.php",
+      "functions.php"
+    ],
+    "classmap": [
+      "classes"
+    ]
+  }
+}
