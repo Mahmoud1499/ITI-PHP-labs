@@ -1,0 +1,18 @@
+{
+  "name": "mahmoud/weather_api",
+  "description": "openweatherapp",
+  "autoload": {
+    "psr-4": {
+      "Mahmoud\\WeatherApi\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mahmoud Mohamed",
+      "email": "mahmoudmahmed1499@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.5"
+  }
+}
