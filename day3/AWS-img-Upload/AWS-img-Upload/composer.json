@@ -1,0 +1,21 @@
+{
+  "name": "mahmo/day3",
+  "authors": [
+    {
+      "name": "Mahmoud Mohamed",
+      "email": "mahmoudmahmed1499@gmail.com"
+    }
+  ],
+  "require": {
+    "aws/aws-sdk-php": "^3.261"
+  },
+  "autoload": {
+    "files": [
+      "config.php",
+      "functions.php"
+    ],
+    "classmap": [
+      "classes"
+    ]
+  }
+}
