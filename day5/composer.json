@@ -1,0 +1,21 @@
+{
+  "name": "mahmo/day4",
+  "autoload": {
+    "psr-4": {
+      "Mahmo\\Day4\\": "src/"
+    },
+    "files": [
+      "config.php"
+    ],
+    "classmap": [
+      "models"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Mahmoud Mohamed",
+      "email": "mahmoudmahmed1499@gmail.com"
+    }
+  ],
+  "require": {}
+}
